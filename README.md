@@ -1,8 +1,3 @@
-Aqui tens uma versão bem mais simples e direta do README.md, como se tivesse sido feita de forma rápida sem formalidades:
-
-Markdown
-
-
 # Teste Java - Iniflex
 
 Projeto em Java feito para o teste prático do processo seletivo da Iniflex.
