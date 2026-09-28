@@ -1,6 +1,6 @@
 # Teste Java - Iniflex
 
-Projeto em Java feito para o teste prático do processo seletivo da Iniflex.
+Projeto em Java feito para o teste prático do processo seletivo da Prothera Tecnologia.
 
 ## O que foi feito:
 - Cadastro das pessoas e funcionários (usando a classe Funcionario que herda de Pessoa)
