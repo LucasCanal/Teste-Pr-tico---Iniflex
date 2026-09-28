@@ -13,6 +13,3 @@ Projeto em Java feito para o teste prático do processo seletivo da Iniflex.
 - Lista em ordem alfabética
 - Soma do total dos salários
 - Cálculo de quantos salários mínimos cada um ganha
-
-## Como rodar:
-Basta abrir a pasta no VS Code e dar Run na classe `Principal.java`.
